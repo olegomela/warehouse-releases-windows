@@ -1,5 +1,5 @@
 # warehouse-releases-windows
-Simple Warehouse WMS App - .deb releases
+Simple Warehouse WMS App - .msi releases
 
 Stable basic WMS functionality (accounting).
 
@@ -21,7 +21,7 @@ Download installer:
 
 Minimum Hardware Requirements
 
-  - Processor (CPU): 1.6 GHz dual-core (Intel/AMD x86_64 or Apple Silicon)
+  - Processor (CPU): 1.6 GHz dual-core
   - Memory (RAM): 2 GB RAM
   - Storage: 300 MB free disk space
   - Display: 1280 x 720
@@ -35,6 +35,6 @@ Recommended Hardware Requirements
 
 Operating System Requirements
 
-  - Supported Versions: Windows 10 or Windows 11 (64-bit editions)
+  - Supported Versions: Windows 10+ (64-bit editions)
   - Architectures: x86_64 (Intel and AMD processors)
   - Requirements: Standard user permissions
