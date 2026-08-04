@@ -15,7 +15,7 @@ Interface languages:
   - 🇪🇸 Spanish,
   - 🇺🇦 Ukrainian.
 
-Download installer:
+Download Installer:
 
 https://github.com/olegomela/warehouse-releases-windows/releases/download/1.4.1/warehouse-1.4.1.msi
 
