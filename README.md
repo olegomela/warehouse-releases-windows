@@ -9,11 +9,11 @@ Local database based on .csv files; preserved when uninstalling/reinstalling the
 
 Interface languages:
 
-  - 🇬🇧 English,
-  - 🇫🇷 French,
-  - 🇩🇪 German,
-  - 🇪🇸 Spanish,
-  - 🇺🇦 Ukrainian.
+  - 🇬🇧 English
+  - 🇫🇷 French
+  - 🇩🇪 German
+  - 🇪🇸 Spanish
+  - 🇺🇦 Ukrainian
 
 Download Installer:
 
