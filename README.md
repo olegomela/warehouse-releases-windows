@@ -1,5 +1,5 @@
 # warehouse-releases-windows
-Simple Warehouse WMS App - .msi releases
+Simple Warehouse WMS App for Windows - .msi releases
 
 Stable basic WMS functionality (accounting).
 
