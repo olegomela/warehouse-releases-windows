@@ -17,7 +17,7 @@ Interface languages:
 
 Download Installer:
 
-https://github.com/olegomela/warehouse-releases-windows/releases/download/v1.4.2/warehouse-1.4.2.msi
+https://github.com/olegomela/warehouse-releases-windows/releases/download/v1.4.3/warehouse-1.4.3.msi
 
 Minimum Hardware Requirements
 
